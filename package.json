@@ -1,0 +1,30 @@
+{
+  "name": "clinear",
+  "version": "0.1.0",
+  "description": "Command line interface for Linear.app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sergeysova/clinear.git"
+  },
+  "keywords": [
+    "cli",
+    "linear",
+    "task",
+    "tracker",
+    "manager",
+    "manage",
+    "issue",
+    "team",
+    "working"
+  ],
+  "author": "Sergey Sova <mail@sergeysova.com> (https://sova.dev)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sergeysova/clinear/issues"
+  },
+  "homepage": "https://github.com/sergeysova/clinear#readme"
+}
